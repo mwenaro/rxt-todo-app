@@ -86,7 +86,6 @@ setTodo({...todo,
 [e.target.name]:e.target.value
 })
 		if(e.key==="Enter"){
-			console.log(e.key)
 		handleSubmit(e)
 		}
 
