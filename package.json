@@ -2,7 +2,7 @@
   "name": "rxt-todo-app",
   "version": "0.1.0",
   "private": true,
-  "home":"https://mwenaro/github.com/rxt-todo-app.git",
+  "home":"https://mwenaro.github.io/rxt-todo-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
