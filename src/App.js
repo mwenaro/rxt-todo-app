@@ -4,7 +4,7 @@ import uuid from 'uuid'
 
 function App() {
   return (
-    <div className="w3-container">
+    <div className="w3-container w3-card-4">
       <header className="w3-teal ">
 	  <h1>My Lovely Todo App</h1>
 	 
@@ -63,7 +63,7 @@ return (
 	<tbody>
 	{
 	todos.map(({id,title,completed},index)=><tr key={index}>
-		<td>{id}</td>
+		<td>{index+1}</td>
 		<td>{title}</td>
 		<td>{completed?"YES":"NO"}</td>
 			<td><button className="w3-btn w3-btn-block w3-primary" onClick={()=>toggleCompleted(id,index)}>Toggle Complted</button></td>
