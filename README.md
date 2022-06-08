@@ -1,7 +1,6 @@
-# REACT TODO APP
-## REACT TODO APP
-### REACT TODO APP
-#### REACT TODO APP
-##### REACT TODO APP
-###### REACT TODO APP
+#A simple todo-app.
+
+## Language(*used)
+  - React js
+  - CSS
 
