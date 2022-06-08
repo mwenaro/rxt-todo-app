@@ -1,6 +1,6 @@
 #A simple todo-app.
 
-## Language(*used)
+## Language(S) used
   - React js
   - CSS
 
